@@ -1,4 +1,4 @@
-package com.ram.KafkaConsumerDemo.config;
+package com.uma.KafkaConsumerDemo.config;
 
 import java.util.HashMap;
 import java.util.Map;
